@@ -369,7 +369,7 @@ void set_layer_color(int layer) {
             // If the values are all false then it's a transparent key and deactivate LED at this layer
             rgb_matrix_set_color(i, 0, 0, 0);
         }
-    }
+    }ssdddsssfcc
 }
 
 void rgb_matrix_indicators_user(void) {
